@@ -16,7 +16,7 @@
   \************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__),\n/* harmony export */   summary: () => (/* binding */ summary)\n/* harmony export */ });\nfunction summary(arg) {\r\n    return 'number of numbsadadasers';\r\n}\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (summary);\r\n\n\n//# sourceURL=webpack://trying_webpack/./src/firstJS.ts?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   summary: () => (/* binding */ summary)\n/* harmony export */ });\nfunction summary(arg) {\r\n    return 'number of numbsadadasers';\r\n}\r\n\n\n//# sourceURL=webpack://trying_webpack/./src/firstJS.ts?");
 
 /***/ }),
 
@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _firstJS__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./firstJS */ \"./src/firstJS.ts\");\n\r\nconsole.log((0,_firstJS__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(22));\r\n\n\n//# sourceURL=webpack://trying_webpack/./src/index.ts?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _firstJS__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./firstJS */ \"./src/firstJS.ts\");\n\r\nconsole.log((0,_firstJS__WEBPACK_IMPORTED_MODULE_0__.summary)(22));\r\n\n\n//# sourceURL=webpack://trying_webpack/./src/index.ts?");
 
 /***/ })
 
