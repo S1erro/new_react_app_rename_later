@@ -10,4 +10,5 @@ export class BuildOptions {
     mode: BuildMode;
     paths: BuildPaths;
     isDev: boolean;
+    port: number;
 }
